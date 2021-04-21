@@ -1,2 +1,2 @@
-# silar
-ASL Sign Language Recognition
+# Project silar
+ASL Sign Language Recognition using deep learning model.
